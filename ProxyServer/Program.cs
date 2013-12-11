@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProxyServer
 {
-    class Proxy
+    class ProgramShell
     {
         static void Main(string[] args)
         {
