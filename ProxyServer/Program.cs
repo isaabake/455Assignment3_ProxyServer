@@ -10,6 +10,8 @@ namespace ProxyServer
     {
         static void Main(string[] args)
         {
+            Proxy proxy = new Proxy();
+            proxy.Run();
         }
     }
 }

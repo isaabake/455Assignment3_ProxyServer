@@ -1,0 +1,2697 @@
+-----------------------Original Header----------------------------
+GET http://media.klewtv.com/crossdomain.xml HTTP/1.1
+Host: media.klewtv.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://media.klewtv.com/crossdomain.xml HTTP/1.1
+Host: media.klewtv.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://school.eecs.wsu.edu/eecs_student_groups HTTP/1.1
+Host: school.eecs.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://school.eecs.wsu.edu/
+Cookie: SESS48832ec436fd5974e50fac5b89ff5b7d=6afbce65c489cfee5c87b665a7e0adc7; _jsuid=2498558022; no_tracky_66488188=1; has_js=1; _first_pageview=1; _eventqueue=%7B%22heatmap%22%3A%5B%7B%22type%22%3A%22heatmap%22%2C%22href%22%3A%22%252F%22%2C%22x%22%3A554%2C%22y%22%3A321%2C%22w%22%3A1920%7D%5D%2C%22events%22%3A%5B%5D%7D
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://school.eecs.wsu.edu/eecs_student_groups HTTP/1.1
+Host: school.eecs.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://school.eecs.wsu.edu/
+Cookie: SESS48832ec436fd5974e50fac5b89ff5b7d=6afbce65c489cfee5c87b665a7e0adc7; _jsuid=2498558022; no_tracky_66488188=1; has_js=1; _first_pageview=1; _eventqueue=%7B%22heatmap%22%3A%5B%7B%22type%22%3A%22heatmap%22%2C%22href%22%3A%22%252F%22%2C%22x%22%3A554%2C%22y%22%3A321%2C%22w%22%3A1920%7D%5D%2C%22events%22%3A%5B%5D%7D
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://school.eecs.wsu.edu/guest_account HTTP/1.1
+Host: school.eecs.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://school.eecs.wsu.edu/eecs_student_groups
+Cookie: SESS48832ec436fd5974e50fac5b89ff5b7d=6afbce65c489cfee5c87b665a7e0adc7; _jsuid=2498558022; no_tracky_66488188=1; has_js=1; _first_pageview=1; _eventqueue=%7B%22heatmap%22%3A%5B%7B%22type%22%3A%22heatmap%22%2C%22href%22%3A%22%252Feecs_student_groups%22%2C%22x%22%3A565%2C%22y%22%3A343%2C%22w%22%3A1920%7D%5D%2C%22events%22%3A%5B%5D%7D
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://school.eecs.wsu.edu/guest_account HTTP/1.1
+Host: school.eecs.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://school.eecs.wsu.edu/eecs_student_groups
+Cookie: SESS48832ec436fd5974e50fac5b89ff5b7d=6afbce65c489cfee5c87b665a7e0adc7; _jsuid=2498558022; no_tracky_66488188=1; has_js=1; _first_pageview=1; _eventqueue=%7B%22heatmap%22%3A%5B%7B%22type%22%3A%22heatmap%22%2C%22href%22%3A%22%252Feecs_student_groups%22%2C%22x%22%3A565%2C%22y%22%3A343%2C%22w%22%3A1920%7D%5D%2C%22events%22%3A%5B%5D%7D
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/FutureStudents/Degrees.html?p3=http://svr.gradschool.wsu.edu/FutureStudents/FactSheet/1514 HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://school.eecs.wsu.edu/guest_account
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386876358.1; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/FutureStudents/Degrees.html?p3=http://svr.gradschool.wsu.edu/FutureStudents/FactSheet/1514 HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://school.eecs.wsu.edu/guest_account
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386876358.1; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/FacultyStaff/Committee/ HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/FutureStudents/Degrees.html?p3=http://svr.gradschool.wsu.edu/FutureStudents/FactSheet/1514
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386876358.1; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/FacultyStaff/Committee/ HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/FutureStudents/Degrees.html?p3=http://svr.gradschool.wsu.edu/FutureStudents/FactSheet/1514
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386876358.1; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Connection: close
+
+
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/bootstrap_v3.js?gacode=UA-7721127-8&loading=element_v2&domainName=gradschool.wsu.edu HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/FacultyStaff/Committee/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+If-Modified-Since: Wed, 31 Jul 2013 15:59:36 GMT
+If-None-Match: "41fbef468ece1:18b3d"
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/bootstrap_v3.js?gacode=UA-7721127-8&loading=element_v2&domainName=gradschool.wsu.edu HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/FacultyStaff/Committee/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+If-Modified-Since: Wed, 31 Jul 2013 15:59:36 GMT
+If-None-Match: "41fbef468ece1:18b3d"
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/Images/default_toolbar.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/FacultyStaff/Committee/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386876358.1; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/Images/default_toolbar.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/FacultyStaff/Committee/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386876358.1; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Connection: close
+
+
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/configs/pick.asp?callback=jQuery11000379811694876677_1386878505600&loading=element_v2&_=1386878505601 HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/FacultyStaff/Committee/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/configs/pick.asp?callback=jQuery11000379811694876677_1386878505600&loading=element_v2&_=1386878505601 HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/FacultyStaff/Committee/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=1&utmn=413988436&utmhn=gradschool.wsu.edu&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=Graduate%20School&utmhid=1091241382&utmr=0&utmp=%2FFacultyStaff%2FCommittee%2F&utmht=1386878506471&utmac=UA-7721127-8&utmcc=__utma%3D32025960.2005015559.1386876358.1386876358.1386878506.2%3B%2B__utmz%3D32025960.1386876358.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmmt=1&utmu=qhAAAAAAAC~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/FacultyStaff/Committee/
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=1&utmn=413988436&utmhn=gradschool.wsu.edu&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=Graduate%20School&utmhid=1091241382&utmr=0&utmp=%2FFacultyStaff%2FCommittee%2F&utmht=1386878506471&utmac=UA-7721127-8&utmcc=__utma%3D32025960.2005015559.1386876358.1386876358.1386878506.2%3B%2B__utmz%3D32025960.1386876358.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmmt=1&utmu=qhAAAAAAAC~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/FacultyStaff/Committee/
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/Forms/index.html HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/FacultyStaff/Committee/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.1.10.1386878506; __utmli=nav
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/Forms/index.html HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/FacultyStaff/Committee/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.1.10.1386878506; __utmli=nav
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/Images/default_toolbar.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/Forms/index.html
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.1.10.1386878506; __utmli=nav
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/Images/default_toolbar.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/Forms/index.html
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.1.10.1386878506; __utmli=nav
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/FutureStudents/Finance/ HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/Forms/index.html
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.1.10.1386878506; __utmli=nav
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/FutureStudents/Finance/ HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/Forms/index.html
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.1.10.1386878506; __utmli=nav
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/bootstrap_v3.js?gacode=UA-7721127-8&loading=element_v2&domainName=gradschool.wsu.edu HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/FutureStudents/Finance/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+If-Modified-Since: Wed, 31 Jul 2013 15:59:36 GMT
+If-None-Match: "41fbef468ece1:18b3d"
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/bootstrap_v3.js?gacode=UA-7721127-8&loading=element_v2&domainName=gradschool.wsu.edu HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/FutureStudents/Finance/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+If-Modified-Since: Wed, 31 Jul 2013 15:59:36 GMT
+If-None-Match: "41fbef468ece1:18b3d"
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/Images/default_toolbar.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/FutureStudents/Finance/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.1.10.1386878506; __utmli=nav
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/Images/default_toolbar.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/FutureStudents/Finance/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.1.10.1386878506; __utmli=nav
+Connection: close
+
+
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/configs/pick.asp?callback=jQuery110007219466167635437_1386878508815&loading=element_v2&_=1386878508816 HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/FutureStudents/Finance/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/configs/pick.asp?callback=jQuery110007219466167635437_1386878508815&loading=element_v2&_=1386878508816 HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/FutureStudents/Finance/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=2&utmn=251628672&utmhn=gradschool.wsu.edu&utme=12(nav)&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=Graduate%20School%20Finances&utmhid=2100091467&utmr=0&utmp=%2FFutureStudents%2FFinance%2F&utmht=1386878509157&utmac=UA-7721127-8&utmcc=__utma%3D32025960.2005015559.1386876358.1386876358.1386878506.2%3B%2B__utmz%3D32025960.1386876358.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmmt=1&utmu=qhAAAAAAACAAAg~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/FutureStudents/Finance/
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=2&utmn=251628672&utmhn=gradschool.wsu.edu&utme=12(nav)&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=Graduate%20School%20Finances&utmhid=2100091467&utmr=0&utmp=%2FFutureStudents%2FFinance%2F&utmht=1386878509157&utmac=UA-7721127-8&utmcc=__utma%3D32025960.2005015559.1386876358.1386876358.1386878506.2%3B%2B__utmz%3D32025960.1386876358.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmmt=1&utmu=qhAAAAAAACAAAg~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/FutureStudents/Finance/
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/ProgramReviewAndAssessment/ HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/FutureStudents/Finance/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.2.10.1386878506; __utmli=nav
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/ProgramReviewAndAssessment/ HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/FutureStudents/Finance/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.2.10.1386878506; __utmli=nav
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/bootstrap_v3.js?gacode=UA-7721127-8&loading=element_v2&domainName=gradschool.wsu.edu HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+If-Modified-Since: Wed, 31 Jul 2013 15:59:36 GMT
+If-None-Match: "41fbef468ece1:14d90"
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/bootstrap_v3.js?gacode=UA-7721127-8&loading=element_v2&domainName=gradschool.wsu.edu HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+If-Modified-Since: Wed, 31 Jul 2013 15:59:36 GMT
+If-None-Match: "41fbef468ece1:14d90"
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/Images/default_toolbar.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.2.10.1386878506; __utmli=nav
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/Images/default_toolbar.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.2.10.1386878506; __utmli=nav
+Connection: close
+
+
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/configs/pick.asp?callback=jQuery110007991100796772311_1386878510118&loading=element_v2&_=1386878510119 HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/configs/pick.asp?callback=jQuery110007991100796772311_1386878510118&loading=element_v2&_=1386878510119 HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=3&utmn=942077317&utmhn=gradschool.wsu.edu&utme=12(nav)&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=Graduate%20School&utmhid=842290690&utmr=0&utmp=%2FProgramReviewAndAssessment%2F&utmht=1386878510459&utmac=UA-7721127-8&utmcc=__utma%3D32025960.2005015559.1386876358.1386876358.1386878506.2%3B%2B__utmz%3D32025960.1386876358.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmmt=1&utmu=qhAAAAAAACAAAg~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=3&utmn=942077317&utmhn=gradschool.wsu.edu&utme=12(nav)&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=Graduate%20School&utmhid=842290690&utmr=0&utmp=%2FProgramReviewAndAssessment%2F&utmht=1386878510459&utmac=UA-7721127-8&utmcc=__utma%3D32025960.2005015559.1386876358.1386876358.1386878506.2%3B%2B__utmz%3D32025960.1386876358.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmmt=1&utmu=qhAAAAAAACAAAg~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/Common/GraduateCatalog.html HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.3.10.1386878506; __utmli=nav
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/Common/GraduateCatalog.html HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.3.10.1386878506; __utmli=nav
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/bootstrap_v3.js?gacode=UA-7721127-8&loading=element_v2&domainName=gradschool.wsu.edu HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/Common/GraduateCatalog.html
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+If-Modified-Since: Wed, 31 Jul 2013 15:59:36 GMT
+If-None-Match: "41fbef468ece1:18b3d"
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/bootstrap_v3.js?gacode=UA-7721127-8&loading=element_v2&domainName=gradschool.wsu.edu HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/Common/GraduateCatalog.html
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+If-Modified-Since: Wed, 31 Jul 2013 15:59:36 GMT
+If-None-Match: "41fbef468ece1:18b3d"
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/Images/default_toolbar.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/Common/GraduateCatalog.html
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.3.10.1386878506; __utmli=nav
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/Images/default_toolbar.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/Common/GraduateCatalog.html
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.3.10.1386878506; __utmli=nav
+Connection: close
+
+
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/configs/pick.asp?callback=jQuery110009027874342873182_1386878512205&loading=element_v2&_=1386878512206 HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/Common/GraduateCatalog.html
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/configs/pick.asp?callback=jQuery110009027874342873182_1386878512205&loading=element_v2&_=1386878512206 HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/Common/GraduateCatalog.html
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=4&utmn=2017992952&utmhn=gradschool.wsu.edu&utme=12(nav)&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=Catalogs&utmhid=1641066155&utmr=0&utmp=%2FCommon%2FGraduateCatalog.html&utmht=1386878512540&utmac=UA-7721127-8&utmcc=__utma%3D32025960.2005015559.1386876358.1386876358.1386878506.2%3B%2B__utmz%3D32025960.1386876358.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmmt=1&utmu=qhAAAAAAACAAAg~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/Common/GraduateCatalog.html
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=4&utmn=2017992952&utmhn=gradschool.wsu.edu&utme=12(nav)&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=Catalogs&utmhid=1641066155&utmr=0&utmp=%2FCommon%2FGraduateCatalog.html&utmht=1386878512540&utmac=UA-7721127-8&utmcc=__utma%3D32025960.2005015559.1386876358.1386876358.1386878506.2%3B%2B__utmz%3D32025960.1386876358.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmmt=1&utmu=qhAAAAAAACAAAg~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/Common/GraduateCatalog.html
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/ HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/Common/GraduateCatalog.html
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.4.10.1386878506; __utmli=nav
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/ HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/Common/GraduateCatalog.html
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.4.10.1386878506; __utmli=nav
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js HTTP/1.1
+Host: ajax.googleapis.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js HTTP/1.1
+Host: ajax.googleapis.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/
+Connection: close
+
+
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/bootstrap_v3.js?gacode=UA-7721127-8&loading=element_v2&domainName=gradschool.wsu.edu HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+If-Modified-Since: Wed, 31 Jul 2013 15:59:36 GMT
+If-None-Match: "41fbef468ece1:18b3d"
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/bootstrap_v3.js?gacode=UA-7721127-8&loading=element_v2&domainName=gradschool.wsu.edu HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+If-Modified-Since: Wed, 31 Jul 2013 15:59:36 GMT
+If-None-Match: "41fbef468ece1:18b3d"
+Connection: close
+
+
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/js/cycle/jquery.cycle.all.3.0.2.js HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.4.10.1386878506; __utmli=nav
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/js/cycle/jquery.cycle.all.3.0.2.js HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.4.10.1386878506; __utmli=nav
+Connection: close
+
+
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/js/cycle/jquery.easing.min.1.3.js HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.4.10.1386878506; __utmli=nav
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/js/cycle/jquery.easing.min.1.3.js HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.4.10.1386878506; __utmli=nav
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/Ganguly2.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.4.10.1386878506; __utmli=nav
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/Ganguly2.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.4.10.1386878506; __utmli=nav
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/configs/pick.asp?callback=jQuery19108735129174892057_1386878516901&loading=element_v2&_=1386878516902 HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/configs/pick.asp?callback=jQuery19108735129174892057_1386878516901&loading=element_v2&_=1386878516902 HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+Recieved response and sent to client
+Recieved response and sent to client
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/Images/siteID.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.4.10.1386878506; __utmli=nav
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/Images/siteID.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.4.10.1386878506; __utmli=nav
+Connection: close
+
+
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/Images/toolbar01.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.4.10.1386878506; __utmli=nav
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/Images/toolbar01.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.4.10.1386878506; __utmli=nav
+Connection: close
+
+
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=5&utmn=842143381&utmhn=gradschool.wsu.edu&utme=12(nav)&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=Washington%20State%20University%20-%20Graduate%20School&utmhid=1010480180&utmr=0&utmp=%2F&utmht=1386878517478&utmac=UA-7721127-8&utmcc=__utma%3D32025960.2005015559.1386876358.1386876358.1386878506.2%3B%2B__utmz%3D32025960.1386876358.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmmt=1&utmu=qhAAAAAAACAAAg~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=5&utmn=842143381&utmhn=gradschool.wsu.edu&utme=12(nav)&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=Washington%20State%20University%20-%20Graduate%20School&utmhid=1010480180&utmr=0&utmp=%2F&utmht=1386878517478&utmac=UA-7721127-8&utmcc=__utma%3D32025960.2005015559.1386876358.1386876358.1386878506.2%3B%2B__utmz%3D32025960.1386876358.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmmt=1&utmu=qhAAAAAAACAAAg~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+Recieved response and sent to client
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://www.wsu.edu/?utm_source=gradschool-wsu-edu&utm_medium=online&utm_campaign=gradschool-wsu-edu-(direct)&utm_term=&utm_content= HTTP/1.1
+Host: www.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://www.wsu.edu/?utm_source=gradschool-wsu-edu&utm_medium=online&utm_campaign=gradschool-wsu-edu-(direct)&utm_term=&utm_content= HTTP/1.1
+Host: www.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://www.wsu.edu/favicon.ico HTTP/1.1
+Host: www.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+If-Modified-Since: Mon, 19 Mar 2007 20:39:50 GMT
+If-None-Match: "725e24-13e-9736f180"
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://www.wsu.edu/favicon.ico HTTP/1.1
+Host: www.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Mon, 19 Mar 2007 20:39:50 GMT
+If-None-Match: "725e24-13e-9736f180"
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/configs/pick.asp?callback=jQuery19101335484462949792_1386878523300&loading=element_v2&_=1386878523301 HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/configs/pick.asp?callback=jQuery19101335484462949792_1386878523300&loading=element_v2&_=1386878523301 HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=6&utmn=1680679700&utmhn=gradschool.wsu.edu&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=Washington%20State%20University%20-%20Graduate%20School&utmhid=1372619509&utmr=0&utmp=%2F&utmht=1386878523611&utmac=UA-7721127-8&utmcc=__utma%3D32025960.2005015559.1386876358.1386876358.1386878506.2%3B%2B__utmz%3D32025960.1386876358.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmmt=1&utmu=qhAAAAAAAC~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=6&utmn=1680679700&utmhn=gradschool.wsu.edu&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=Washington%20State%20University%20-%20Graduate%20School&utmhid=1372619509&utmr=0&utmp=%2F&utmht=1386878523611&utmac=UA-7721127-8&utmcc=__utma%3D32025960.2005015559.1386876358.1386876358.1386878506.2%3B%2B__utmz%3D32025960.1386876358.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmmt=1&utmu=qhAAAAAAAC~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://www.wsu.edu/?utm_source=gradschool-wsu-edu&utm_medium=online&utm_campaign=gradschool-wsu-edu-(direct)&utm_term=&utm_content= HTTP/1.1
+Host: www.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://www.wsu.edu/?utm_source=gradschool-wsu-edu&utm_medium=online&utm_campaign=gradschool-wsu-edu-(direct)&utm_term=&utm_content= HTTP/1.1
+Host: www.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/configs/pick.asp?callback=jQuery1910035609462625993515_1386878525148&loading=element_v2&_=1386878525149 HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/configs/pick.asp?callback=jQuery1910035609462625993515_1386878525148&loading=element_v2&_=1386878525149 HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=7&utmn=765590674&utmhn=gradschool.wsu.edu&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=Washington%20State%20University%20-%20Graduate%20School&utmhid=177253700&utmr=0&utmp=%2F&utmht=1386878525513&utmac=UA-7721127-8&utmcc=__utma%3D32025960.2005015559.1386876358.1386876358.1386878506.2%3B%2B__utmz%3D32025960.1386876358.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmmt=1&utmu=qhAAAAAAAC~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=7&utmn=765590674&utmhn=gradschool.wsu.edu&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=Washington%20State%20University%20-%20Graduate%20School&utmhid=177253700&utmr=0&utmp=%2F&utmht=1386878525513&utmac=UA-7721127-8&utmcc=__utma%3D32025960.2005015559.1386876358.1386876358.1386878506.2%3B%2B__utmz%3D32025960.1386876358.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmmt=1&utmu=qhAAAAAAAC~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/FutureStudents/Apply.html HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.7.10.1386878506
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/FutureStudents/Apply.html HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.7.10.1386878506
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/bootstrap_v3.js?gacode=UA-7721127-8&loading=element_v2&domainName=gradschool.wsu.edu HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/FutureStudents/Apply.html
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+If-Modified-Since: Wed, 31 Jul 2013 15:59:36 GMT
+If-None-Match: "41fbef468ece1:18b3d"
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/bootstrap_v3.js?gacode=UA-7721127-8&loading=element_v2&domainName=gradschool.wsu.edu HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/FutureStudents/Apply.html
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+If-Modified-Since: Wed, 31 Jul 2013 15:59:36 GMT
+If-None-Match: "41fbef468ece1:18b3d"
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/Images/default_toolbar.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/FutureStudents/Apply.html
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.7.10.1386878506
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/Images/default_toolbar.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/FutureStudents/Apply.html
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.7.10.1386878506
+Connection: close
+
+
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/configs/pick.asp?callback=jQuery1100043774947769434347_1386878527335&loading=element_v2&_=1386878527336 HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/FutureStudents/Apply.html
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/configs/pick.asp?callback=jQuery1100043774947769434347_1386878527335&loading=element_v2&_=1386878527336 HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/FutureStudents/Apply.html
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=8&utmn=1435627420&utmhn=gradschool.wsu.edu&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=Graduate%20School&utmhid=1643130303&utmr=0&utmp=%2FFutureStudents%2FApply.html&utmht=1386878527681&utmac=UA-7721127-8&utmcc=__utma%3D32025960.2005015559.1386876358.1386876358.1386878506.2%3B%2B__utmz%3D32025960.1386876358.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmmt=1&utmu=qhAAAAAAAC~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/FutureStudents/Apply.html
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=8&utmn=1435627420&utmhn=gradschool.wsu.edu&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=Graduate%20School&utmhid=1643130303&utmr=0&utmp=%2FFutureStudents%2FApply.html&utmht=1386878527681&utmac=UA-7721127-8&utmcc=__utma%3D32025960.2005015559.1386876358.1386876358.1386878506.2%3B%2B__utmz%3D32025960.1386876358.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmmt=1&utmu=qhAAAAAAAC~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/FutureStudents/Apply.html
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/ProgramReviewAndAssessment/ HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/FutureStudents/Apply.html
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.8.10.1386878506; __utmli=nav
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/ProgramReviewAndAssessment/ HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/FutureStudents/Apply.html
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.8.10.1386878506; __utmli=nav
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/bootstrap_v3.js?gacode=UA-7721127-8&loading=element_v2&domainName=gradschool.wsu.edu HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+If-Modified-Since: Wed, 31 Jul 2013 15:59:36 GMT
+If-None-Match: "41fbef468ece1:14d90"
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/bootstrap_v3.js?gacode=UA-7721127-8&loading=element_v2&domainName=gradschool.wsu.edu HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+If-Modified-Since: Wed, 31 Jul 2013 15:59:36 GMT
+If-None-Match: "41fbef468ece1:14d90"
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/Images/default_toolbar.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.8.10.1386878506; __utmli=nav
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/Images/default_toolbar.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.8.10.1386878506; __utmli=nav
+Connection: close
+
+
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/configs/pick.asp?callback=jQuery1100036629071422399084_1386878531058&loading=element_v2&_=1386878531059 HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://images.wsu.edu/javascripts/tracking/configs/pick.asp?callback=jQuery1100036629071422399084_1386878531058&loading=element_v2&_=1386878531059 HTTP/1.1
+Host: images.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/
+Cookie: ASPSESSIONIDCADRCTQB=MEDOEILABLBKHDDEJCNHKMEA; ASPSESSIONIDCAAQCRTB=AKAEOHLAMGEGOLPKJPPMEKOB
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=9&utmn=40002404&utmhn=gradschool.wsu.edu&utme=12(nav)&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=Graduate%20School&utmhid=1804617727&utmr=0&utmp=%2FProgramReviewAndAssessment%2F&utmht=1386878531405&utmac=UA-7721127-8&utmcc=__utma%3D32025960.2005015559.1386876358.1386876358.1386878506.2%3B%2B__utmz%3D32025960.1386876358.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmmt=1&utmu=qhAAAAAAACAAAg~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=9&utmn=40002404&utmhn=gradschool.wsu.edu&utme=12(nav)&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=Graduate%20School&utmhid=1804617727&utmr=0&utmp=%2FProgramReviewAndAssessment%2F&utmht=1386878531405&utmac=UA-7721127-8&utmcc=__utma%3D32025960.2005015559.1386876358.1386876358.1386878506.2%3B%2B__utmz%3D32025960.1386876358.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmmt=1&utmu=qhAAAAAAACAAAg~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/ProgramReviewAndAssessment/ProgramReview.html HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.9.10.1386878506
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/ProgramReviewAndAssessment/ProgramReview.html HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.9.10.1386878506
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/Images/default_toolbar.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/ProgramReview.html
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.9.10.1386878506
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/Images/default_toolbar.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/ProgramReview.html
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.9.10.1386878506
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/Staff/ HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/ProgramReview.html
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.9.10.1386878506
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/Staff/ HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/ProgramReviewAndAssessment/ProgramReview.html
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.9.10.1386878506
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://gradschool.wsu.edu/Images/default_toolbar.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/Staff/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.9.10.1386878506
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://gradschool.wsu.edu/Images/default_toolbar.jpg HTTP/1.1
+Host: gradschool.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/Staff/
+Cookie: ASP.NET_SessionId=sroouay5fvgzlk45vubu5255; __utma=32025960.2005015559.1386876358.1386876358.1386878506.2; __utmc=32025960; __utmz=32025960.1386876358.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=32025960.9.10.1386878506
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://gradschool.wsu.edu/Staff/
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=64252785.1510786085.1386878370.1386878370.1386878370.1; __utmb=64252785.5.10.1386878370; __utmc=64252785; __utmz=64252785.1386878370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gradschool.wsu.edu/Staff/
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=64252785.1510786085.1386878370.1386878370.1386878370.1; __utmb=64252785.5.10.1386878370; __utmc=64252785; __utmz=64252785.1386878370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://studentinvolvement.orgsync.com/stylesheets/extranet_defaults.css?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=64252785.1510786085.1386878370.1386878370.1386878370.1; __utmb=64252785.5.10.1386878370; __utmc=64252785; __utmz=64252785.1386878370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://studentinvolvement.orgsync.com/stylesheets/extranet_defaults.css?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=64252785.1510786085.1386878370.1386878370.1386878370.1; __utmb=64252785.5.10.1386878370; __utmc=64252785; __utmz=64252785.1386878370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+Connection: close
+
+
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://studentinvolvement.orgsync.com/stylesheets/jquery.fancybox.css?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=64252785.1510786085.1386878370.1386878370.1386878370.1; __utmb=64252785.5.10.1386878370; __utmc=64252785; __utmz=64252785.1386878370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://studentinvolvement.orgsync.com/stylesheets/jquery.fancybox.css?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=64252785.1510786085.1386878370.1386878370.1386878370.1; __utmb=64252785.5.10.1386878370; __utmc=64252785; __utmz=64252785.1386878370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+Connection: close
+
+
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://studentinvolvement.orgsync.com/stylesheets/module_defaults.css?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=64252785.1510786085.1386878370.1386878370.1386878370.1; __utmb=64252785.5.10.1386878370; __utmc=64252785; __utmz=64252785.1386878370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://studentinvolvement.orgsync.com/stylesheets/module_defaults.css?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=64252785.1510786085.1386878370.1386878370.1386878370.1; __utmb=64252785.5.10.1386878370; __utmc=64252785; __utmz=64252785.1386878370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+Connection: close
+
+
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://studentinvolvement.orgsync.com/stylesheets/jquery-ui.css?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=64252785.1510786085.1386878370.1386878370.1386878370.1; __utmb=64252785.5.10.1386878370; __utmc=64252785; __utmz=64252785.1386878370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://studentinvolvement.orgsync.com/stylesheets/jquery-ui.css?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=64252785.1510786085.1386878370.1386878370.1386878370.1; __utmb=64252785.5.10.1386878370; __utmc=64252785; __utmz=64252785.1386878370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/jquery.easing.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=64252785.1510786085.1386878370.1386878370.1386878370.1; __utmb=64252785.5.10.1386878370; __utmc=64252785; __utmz=64252785.1386878370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/jquery.easing.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=64252785.1510786085.1386878370.1386878370.1386878370.1; __utmb=64252785.5.10.1386878370; __utmc=64252785; __utmz=64252785.1386878370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/jquery.pngFix.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=64252785.1510786085.1386878370.1386878370.1386878370.1; __utmb=64252785.5.10.1386878370; __utmc=64252785; __utmz=64252785.1386878370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/jquery.pngFix.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=64252785.1510786085.1386878370.1386878370.1386878370.1; __utmb=64252785.5.10.1386878370; __utmc=64252785; __utmz=64252785.1386878370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/jquery.fancybox.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=64252785.1510786085.1386878370.1386878370.1386878370.1; __utmb=64252785.5.10.1386878370; __utmc=64252785; __utmz=64252785.1386878370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/jquery.fancybox.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=64252785.1510786085.1386878370.1386878370.1386878370.1; __utmb=64252785.5.10.1386878370; __utmc=64252785; __utmz=64252785.1386878370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+Connection: close
+
+
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/extranet_defaults.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=64252785.1510786085.1386878370.1386878370.1386878370.1; __utmb=64252785.5.10.1386878370; __utmc=64252785; __utmz=64252785.1386878370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/extranet_defaults.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=64252785.1510786085.1386878370.1386878370.1386878370.1; __utmb=64252785.5.10.1386878370; __utmc=64252785; __utmz=64252785.1386878370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/module_defaults.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=64252785.1510786085.1386878370.1386878370.1386878370.1; __utmb=64252785.5.10.1386878370; __utmc=64252785; __utmz=64252785.1386878370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/module_defaults.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=64252785.1510786085.1386878370.1386878370.1386878370.1; __utmb=64252785.5.10.1386878370; __utmc=64252785; __utmz=64252785.1386878370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/os_jquery.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=64252785.1510786085.1386878370.1386878370.1386878370.1; __utmb=64252785.5.10.1386878370; __utmc=64252785; __utmz=64252785.1386878370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/os_jquery.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=64252785.1510786085.1386878370.1386878370.1386878370.1; __utmb=64252785.5.10.1386878370; __utmc=64252785; __utmz=64252785.1386878370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://www.wsu.edu/navigatewsu/gen2/navstyle.js HTTP/1.1
+Host: www.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://www.wsu.edu/navigatewsu/gen2/navstyle.js HTTP/1.1
+Host: www.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Connection: close
+
+
+Recieved response and sent to client
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://s3.amazonaws.com/os_extranet_images/110292_original.jpg HTTP/1.1
+Host: s3.amazonaws.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://s3.amazonaws.com/os_extranet_images/110292_original.jpg HTTP/1.1
+Host: s3.amazonaws.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+Recieved response and sent to client
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://www.wsu.edu/navigatewsu/gen2/navstyle.js HTTP/1.1
+Host: www.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://www.wsu.edu/navigatewsu/gen2/navstyle.js HTTP/1.1
+Host: www.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Connection: close
+
+
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://s3.amazonaws.com/os_extranet_files_test/bg-logo3.jpg HTTP/1.1
+Host: s3.amazonaws.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://s3.amazonaws.com/os_extranet_files_test/13357_22812_stylesheet.css
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://s3.amazonaws.com/os_extranet_files_test/bg-logo3.jpg HTTP/1.1
+Host: s3.amazonaws.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://s3.amazonaws.com/os_extranet_files_test/13357_22812_stylesheet.css
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=1&utmn=695791462&utmhn=studentinvolvement.orgsync.com&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=WSU%20GPSA&utmhid=1024818396&utmr=http%3A%2F%2Fgradschool.wsu.edu%2FStaff%2F&utmp=%2Forg%2Fgpsa%2FServices_Travel&utmht=1386878537648&utmac=UA-1975314-11&utmcc=__utma%3D86400071.1059274848.1386878538.1386878538.1386878538.1%3B%2B__utmz%3D86400071.1386878538.1.1.utmcsr%3Dgradschool.wsu.edu%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2FStaff%2F%3B&utmu=DB~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=1&utmn=695791462&utmhn=studentinvolvement.orgsync.com&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=WSU%20GPSA&utmhid=1024818396&utmr=http%3A%2F%2Fgradschool.wsu.edu%2FStaff%2F&utmp=%2Forg%2Fgpsa%2FServices_Travel&utmht=1386878537648&utmac=UA-1975314-11&utmcc=__utma%3D86400071.1059274848.1386878538.1386878538.1386878538.1%3B%2B__utmz%3D86400071.1386878538.1.1.utmcsr%3Dgradschool.wsu.edu%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2FStaff%2F%3B&utmu=DB~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://www.wsu.edu/ HTTP/1.1
+Host: www.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://www.wsu.edu/ HTTP/1.1
+Host: www.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://s3.amazonaws.com/os_extranet_files_test/bg-logo3.jpg HTTP/1.1
+Host: s3.amazonaws.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://s3.amazonaws.com/os_extranet_files_test/13357_22812_stylesheet.css
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://s3.amazonaws.com/os_extranet_files_test/bg-logo3.jpg HTTP/1.1
+Host: s3.amazonaws.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://s3.amazonaws.com/os_extranet_files_test/13357_22812_stylesheet.css
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=2&utmn=1203811461&utmhn=studentinvolvement.orgsync.com&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=WSU%20GPSA&utmhid=1722530706&utmr=http%3A%2F%2Fgradschool.wsu.edu%2FStaff%2F&utmp=%2Forg%2Fgpsa%2FServices_Travel&utmht=1386878549756&utmac=UA-1975314-11&utmcc=__utma%3D86400071.1059274848.1386878538.1386878538.1386878538.1%3B%2B__utmz%3D86400071.1386878538.1.1.utmcsr%3Dgradschool.wsu.edu%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2FStaff%2F%3B&utmu=DB~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=2&utmn=1203811461&utmhn=studentinvolvement.orgsync.com&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=WSU%20GPSA&utmhid=1722530706&utmr=http%3A%2F%2Fgradschool.wsu.edu%2FStaff%2F&utmp=%2Forg%2Fgpsa%2FServices_Travel&utmht=1386878549756&utmac=UA-1975314-11&utmcc=__utma%3D86400071.1059274848.1386878538.1386878538.1386878538.1%3B%2B__utmz%3D86400071.1386878538.1.1.utmcsr%3Dgradschool.wsu.edu%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2FStaff%2F%3B&utmu=DB~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=86400071.1059274848.1386878538.1386878538.1386878538.1; __utmb=86400071.2.10.1386878538; __utmc=86400071; __utmz=86400071.1386878538.1.1.utmcsr=gradschool.wsu.edu|utmccn=(referral)|utmcmd=referral|utmcct=/Staff/
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Services_Travel
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=86400071.1059274848.1386878538.1386878538.1386878538.1; __utmb=86400071.2.10.1386878538; __utmc=86400071; __utmz=86400071.1386878538.1.1.utmcsr=gradschool.wsu.edu|utmccn=(referral)|utmcmd=referral|utmcct=/Staff/
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://studentinvolvement.orgsync.com/stylesheets/module_defaults.css?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=86400071.1059274848.1386878538.1386878538.1386878538.1; __utmb=86400071.2.10.1386878538; __utmc=86400071; __utmz=86400071.1386878538.1.1.utmcsr=gradschool.wsu.edu|utmccn=(referral)|utmcmd=referral|utmcct=/Staff/
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://studentinvolvement.orgsync.com/stylesheets/module_defaults.css?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=86400071.1059274848.1386878538.1386878538.1386878538.1; __utmb=86400071.2.10.1386878538; __utmc=86400071; __utmz=86400071.1386878538.1.1.utmcsr=gradschool.wsu.edu|utmccn=(referral)|utmcmd=referral|utmcct=/Staff/
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+Connection: close
+
+
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://studentinvolvement.orgsync.com/stylesheets/extranet_defaults.css?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=86400071.1059274848.1386878538.1386878538.1386878538.1; __utmb=86400071.2.10.1386878538; __utmc=86400071; __utmz=86400071.1386878538.1.1.utmcsr=gradschool.wsu.edu|utmccn=(referral)|utmcmd=referral|utmcct=/Staff/
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://studentinvolvement.orgsync.com/stylesheets/extranet_defaults.css?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=86400071.1059274848.1386878538.1386878538.1386878538.1; __utmb=86400071.2.10.1386878538; __utmc=86400071; __utmz=86400071.1386878538.1.1.utmcsr=gradschool.wsu.edu|utmccn=(referral)|utmcmd=referral|utmcct=/Staff/
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+Connection: close
+
+
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://studentinvolvement.orgsync.com/stylesheets/jquery.fancybox.css?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=86400071.1059274848.1386878538.1386878538.1386878538.1; __utmb=86400071.2.10.1386878538; __utmc=86400071; __utmz=86400071.1386878538.1.1.utmcsr=gradschool.wsu.edu|utmccn=(referral)|utmcmd=referral|utmcct=/Staff/
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://studentinvolvement.orgsync.com/stylesheets/jquery.fancybox.css?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=86400071.1059274848.1386878538.1386878538.1386878538.1; __utmb=86400071.2.10.1386878538; __utmc=86400071; __utmz=86400071.1386878538.1.1.utmcsr=gradschool.wsu.edu|utmccn=(referral)|utmcmd=referral|utmcct=/Staff/
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://studentinvolvement.orgsync.com/stylesheets/jquery-ui.css?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=86400071.1059274848.1386878538.1386878538.1386878538.1; __utmb=86400071.2.10.1386878538; __utmc=86400071; __utmz=86400071.1386878538.1.1.utmcsr=gradschool.wsu.edu|utmccn=(referral)|utmcmd=referral|utmcct=/Staff/
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://studentinvolvement.orgsync.com/stylesheets/jquery-ui.css?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=86400071.1059274848.1386878538.1386878538.1386878538.1; __utmb=86400071.2.10.1386878538; __utmc=86400071; __utmz=86400071.1386878538.1.1.utmcsr=gradschool.wsu.edu|utmccn=(referral)|utmcmd=referral|utmcct=/Staff/
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+Connection: close
+
+
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/jquery.easing.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=86400071.1059274848.1386878538.1386878538.1386878538.1; __utmb=86400071.2.10.1386878538; __utmc=86400071; __utmz=86400071.1386878538.1.1.utmcsr=gradschool.wsu.edu|utmccn=(referral)|utmcmd=referral|utmcct=/Staff/
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/jquery.easing.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=86400071.1059274848.1386878538.1386878538.1386878538.1; __utmb=86400071.2.10.1386878538; __utmc=86400071; __utmz=86400071.1386878538.1.1.utmcsr=gradschool.wsu.edu|utmccn=(referral)|utmcmd=referral|utmcct=/Staff/
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/jquery.pngFix.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=86400071.1059274848.1386878538.1386878538.1386878538.1; __utmb=86400071.2.10.1386878538; __utmc=86400071; __utmz=86400071.1386878538.1.1.utmcsr=gradschool.wsu.edu|utmccn=(referral)|utmcmd=referral|utmcct=/Staff/
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/jquery.pngFix.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=86400071.1059274848.1386878538.1386878538.1386878538.1; __utmb=86400071.2.10.1386878538; __utmc=86400071; __utmz=86400071.1386878538.1.1.utmcsr=gradschool.wsu.edu|utmccn=(referral)|utmcmd=referral|utmcct=/Staff/
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/jquery.fancybox.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=86400071.1059274848.1386878538.1386878538.1386878538.1; __utmb=86400071.2.10.1386878538; __utmc=86400071; __utmz=86400071.1386878538.1.1.utmcsr=gradschool.wsu.edu|utmccn=(referral)|utmcmd=referral|utmcct=/Staff/
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/jquery.fancybox.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=86400071.1059274848.1386878538.1386878538.1386878538.1; __utmb=86400071.2.10.1386878538; __utmc=86400071; __utmz=86400071.1386878538.1.1.utmcsr=gradschool.wsu.edu|utmccn=(referral)|utmcmd=referral|utmcct=/Staff/
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/module_defaults.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=86400071.1059274848.1386878538.1386878538.1386878538.1; __utmb=86400071.2.10.1386878538; __utmc=86400071; __utmz=86400071.1386878538.1.1.utmcsr=gradschool.wsu.edu|utmccn=(referral)|utmcmd=referral|utmcct=/Staff/
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/module_defaults.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=86400071.1059274848.1386878538.1386878538.1386878538.1; __utmb=86400071.2.10.1386878538; __utmc=86400071; __utmz=86400071.1386878538.1.1.utmcsr=gradschool.wsu.edu|utmccn=(referral)|utmcmd=referral|utmcct=/Staff/
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+Connection: close
+
+
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/extranet_defaults.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=86400071.1059274848.1386878538.1386878538.1386878538.1; __utmb=86400071.2.10.1386878538; __utmc=86400071; __utmz=86400071.1386878538.1.1.utmcsr=gradschool.wsu.edu|utmccn=(referral)|utmcmd=referral|utmcct=/Staff/
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/extranet_defaults.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=86400071.1059274848.1386878538.1386878538.1386878538.1; __utmb=86400071.2.10.1386878538; __utmc=86400071; __utmz=86400071.1386878538.1.1.utmcsr=gradschool.wsu.edu|utmccn=(referral)|utmcmd=referral|utmcct=/Staff/
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/os_jquery.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=86400071.1059274848.1386878538.1386878538.1386878538.1; __utmb=86400071.2.10.1386878538; __utmc=86400071; __utmz=86400071.1386878538.1.1.utmcsr=gradschool.wsu.edu|utmccn=(referral)|utmcmd=referral|utmcct=/Staff/
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://studentinvolvement.orgsync.com/javascripts/os_jquery.js?1381963932 HTTP/1.1
+Host: studentinvolvement.orgsync.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Cookie: _website_builder_session=BAh7CToSY2FsZW5kYXJfbW9kZSIMY2hhcHRlcjoaY2FsZW5kYXJfbW9udGhfb2Zmc2V0aQA6G21pbmlfY2FsX29ubHlfY2F0ZWdvcnlGOg9zZXNzaW9uX2lkIiU3YzY1Y2Y4NWUzZGY2NDQ3MjQyYmY2M2UxNGM3ZmUyNw%3D%3D--c175b8ae4ad68c86b543344088332d8f85d8b29b; __utma=86400071.1059274848.1386878538.1386878538.1386878538.1; __utmb=86400071.2.10.1386878538; __utmc=86400071; __utmz=86400071.1386878538.1.1.utmcsr=gradschool.wsu.edu|utmccn=(referral)|utmcmd=referral|utmcct=/Staff/
+If-Modified-Since: Wed, 16 Oct 2013 22:52:12 GMT
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://www.wsu.edu/navigatewsu/gen2/navstyle.js HTTP/1.1
+Host: www.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://www.wsu.edu/navigatewsu/gen2/navstyle.js HTTP/1.1
+Host: www.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://s3.amazonaws.com/os_extranet_images/110311_original.jpg HTTP/1.1
+Host: s3.amazonaws.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://s3.amazonaws.com/os_extranet_images/110311_original.jpg HTTP/1.1
+Host: s3.amazonaws.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://www.wsu.edu/navigatewsu/gen2/navstyle.js HTTP/1.1
+Host: www.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://www.wsu.edu/navigatewsu/gen2/navstyle.js HTTP/1.1
+Host: www.wsu.edu
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Connection: close
+
+
+------------------------------------------------------------------
+-----------------------Original Header----------------------------
+GET http://s3.amazonaws.com/os_extranet_files_test/bg-logo3.jpg HTTP/1.1
+Host: s3.amazonaws.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://s3.amazonaws.com/os_extranet_files_test/13357_22812_stylesheet.css
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://s3.amazonaws.com/os_extranet_files_test/bg-logo3.jpg HTTP/1.1
+Host: s3.amazonaws.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://s3.amazonaws.com/os_extranet_files_test/13357_22812_stylesheet.css
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=3&utmn=153240504&utmhn=studentinvolvement.orgsync.com&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=WSU%20GPSA&utmhid=1709443166&utmr=0&utmp=%2Forg%2Fgpsa%2FCommittees_GPSA&utmht=1386878553797&utmac=UA-1975314-11&utmcc=__utma%3D86400071.1059274848.1386878538.1386878538.1386878538.1%3B%2B__utmz%3D86400071.1386878538.1.1.utmcsr%3Dgradschool.wsu.edu%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2FStaff%2F%3B&utmu=DB~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.6&utms=3&utmn=153240504&utmhn=studentinvolvement.orgsync.com&utmcs=UTF-8&utmsr=1920x1080&utmvp=1903x976&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.9%20r900&utmdt=WSU%20GPSA&utmhid=1709443166&utmr=0&utmp=%2Forg%2Fgpsa%2FCommittees_GPSA&utmht=1386878553797&utmac=UA-1975314-11&utmcc=__utma%3D86400071.1059274848.1386878538.1386878538.1386878538.1%3B%2B__utmz%3D86400071.1386878538.1.1.utmcsr%3Dgradschool.wsu.edu%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2FStaff%2F%3B&utmu=DB~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://studentinvolvement.orgsync.com/org/gpsa/Committees_GPSA
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+POST http://ocsp.godaddy.com/ HTTP/1.1
+Host: ocsp.godaddy.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Content-Length: 106
+Content-Type: application/ocsp-request
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+POST http://ocsp.godaddy.com/ HTTP/1.1
+Host: ocsp.godaddy.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Length: 106
+Content-Type: application/ocsp-request
+Connection: close
+
+
+------------------------------------------------------------------
+Sent POST to server
+POST: 0h0f0D0B0@0	+ p)"vS???<????v**??a2?lE????_???v?h??c9?y???00	+00	+0
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+CONNECT live.orgsync.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Proxy-Connection: keep-alive
+Host: live.orgsync.com
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+CONNECT live.orgsync.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Host: live.orgsync.com
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+CONNECT live.orgsync.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Proxy-Connection: keep-alive
+Host: live.orgsync.com
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+CONNECT live.orgsync.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Host: live.orgsync.com
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+CONNECT live.orgsync.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Proxy-Connection: keep-alive
+Host: live.orgsync.com
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+CONNECT live.orgsync.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Host: live.orgsync.com
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+CONNECT live.orgsync.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Proxy-Connection: keep-alive
+Host: live.orgsync.com
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+CONNECT live.orgsync.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Host: live.orgsync.com
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+CONNECT live.orgsync.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Proxy-Connection: keep-alive
+Host: live.orgsync.com
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+CONNECT live.orgsync.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Host: live.orgsync.com
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+CONNECT live.orgsync.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Proxy-Connection: keep-alive
+Host: live.orgsync.com
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+CONNECT live.orgsync.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Host: live.orgsync.com
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+CONNECT live.orgsync.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Proxy-Connection: keep-alive
+Host: live.orgsync.com
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+CONNECT live.orgsync.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Host: live.orgsync.com
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+CONNECT live.orgsync.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Proxy-Connection: keep-alive
+Host: live.orgsync.com
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+CONNECT live.orgsync.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Host: live.orgsync.com
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+CONNECT live.orgsync.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Proxy-Connection: keep-alive
+Host: live.orgsync.com
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+CONNECT live.orgsync.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Host: live.orgsync.com
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
+-----------------------Original Header----------------------------
+CONNECT live.orgsync.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Proxy-Connection: keep-alive
+Host: live.orgsync.com
+
+
+------------------------------------------------------------------
+-----------------------Modified Header----------------------------
+CONNECT live.orgsync.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Host: live.orgsync.com
+Connection: close
+
+
+------------------------------------------------------------------
+Recieved response and sent to client
